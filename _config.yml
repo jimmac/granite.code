@@ -1,0 +1,11 @@
+# Site settings
+title: Granite.code
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://granite.code" # the base hostname & protocol for your site
+sourceurl: "https://github.com/jimmac/granite.code"
+description: "Code focused model for running locally"
+
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
