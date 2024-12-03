@@ -4,7 +4,7 @@ fedora-version: 41
 ---
 
 <picture class="full pixels">
-    <source srcset="../assets/install-dark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="../assets/install.png" media="(prefers-color-scheme: dark)">
     <img src="../assets/install.png">
 </picture>
 
