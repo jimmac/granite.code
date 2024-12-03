@@ -3,9 +3,9 @@
     <ul class="bottomlinks">
       {% for link in site.data.links %}
       {% if link.url contains "http" %}
-        <li><a class="extlink" href="{{ link.url }}">{{ link.lnk }} {% include extlink.svg %}</a></li>
+        <li><a class="extlink" href="{{ link.url | prepend: site.baseurl }}">{{ link.lnk }} {% include extlink.svg %}</a></li>
       {% else %}
-        <li><a href="{{ link.url }}">{{ link.lnk }}</a></li>
+        <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.lnk }}</a></li>
       {% endif %}
       {% endfor %}
 
