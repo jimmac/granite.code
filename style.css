@@ -53,7 +53,7 @@
   --dark3: rgb(61,56,70);
   --dark4: rgb(36,31,49);
   --dark5: rgb(0,0,0);
-  --primary-color: var(--purple3);
+  --primary-color: var(--blue3);
   --borders: var(--light3);
   --pagewidth: 60rem;
   --pagepad: 3rem;
@@ -494,6 +494,23 @@ code.highlighter-rouge {
   background-color: rgba(0,0,0,0.05);
   color: var(--dark5);
 }
+
+.button {
+  display: block;
+  margin: auto;
+  padding: .4rem 1rem;
+  border-radius: 999em;
+  background-color: var(--primary-color);
+  color: var(--bg-color);
+  text-align: center;
+  
+  &.floating {
+    padding: 1rem;
+    min-width: 12rem;
+    max-width: 18rem;
+  } 
+}
+
 /* FOOTER */
 footer {
   background-color: var(--footer-bg);

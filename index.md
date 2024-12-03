@@ -7,6 +7,8 @@ layout: default
     <img src="assets/granite-splash.png">
 </picture>
 
+
+
 ## Supercharge Your Workflow with IBM Granite Model  
 
 **Streamline Your Development Process** 
@@ -25,12 +27,10 @@ Harness the power of IBM Granite's cutting-edge AI right from your favorite IDE.
 - **Customizable Workflows** 
   Tailor the integration to fit your unique project needs. Configure suggestions, linting rules, and more to match your style. 
 
+<a href="install" class="button floating">Install</a>
+
 ### Supported IDEs  
 Granite Integration supports popular IDEs like Visual Studio Code, IntelliJ IDEA, Eclipse, and more. 
 
 ![Alpaca placeholder](assets/alpaca.png)
 
-**Get Started Now** 
-Transform the way you code. Download the IBM Granite IDE extension today and experience the future of development. 
-
-<a href="" class="inline-button">Download</a>
