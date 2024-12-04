@@ -24,4 +24,4 @@ bundle install
 bundle exec jekyll s
 ```
 
-The CI should deploy the site automatically to [FIXME](#fixme).
+The CI should deploy the site automatically to [https://jimmac.github.io/granite.code/](https://jimmac.github.io/granite.code/).
