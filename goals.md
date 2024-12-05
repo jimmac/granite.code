@@ -3,7 +3,7 @@ layout: default
 ---
 
 <picture class="full pixels">
-    <source srcset="../assets/goals.png" media="(prefers-color-scheme: dark)">
+    <source srcset="../assets/goals-dark.png" media="(prefers-color-scheme: dark)">
     <img src="../assets/goals.png">
 </picture>
 
