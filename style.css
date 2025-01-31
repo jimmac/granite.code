@@ -5,8 +5,6 @@
   https://github.com/jimmac/os-component-website
 */
 
-{% include fonts.css %}
-
 :root {
   --rounded-corner: 12px;
   --blue1: rgb(153,193,241);
@@ -104,7 +102,7 @@ html, body {
   padding: 0;
   font-size: var(--fontsize);
   font-variation-settings: 'slnt' 0;
-  font-family: "Inter Variable", sans-serif;
+  font-family: InterVariable, sans-serif;
   font-weight: 400;
   line-height: 1.6;
   scroll-behavior: smooth;
