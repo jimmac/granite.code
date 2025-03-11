@@ -2,8 +2,8 @@
 title: Granite.code
 baseurl: "/granite.code" # the subpath of your site, e.g. /blog/
 url: "https://jimmac.github.io" # the base hostname & protocol for your site
-sourceurl: "https://github.com/jimmac/granite.code"
-description: "Code focused model for running locally"
+sourceurl: "https://github.com/Granite-Code/granitecode.github.io"
+description: "AI code assistant"
 
 permalink: /:title/
 
